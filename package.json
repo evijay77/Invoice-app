@@ -14,7 +14,7 @@
   },
   "main": "background.js",
   "dependencies": {
-    "aws-sdk": "^2.641.0",
+    "aws-sdk": "^2.1413.0",
     "bootstrap": "^4.4.1",
     "bootstrap-vue": "^2.10.1",
     "buefy": "^0.8.13",
